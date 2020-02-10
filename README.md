@@ -5,4 +5,6 @@
 ## Learning outcomes:
 
 - Creating classes and methods
-- 
+- Inheritance
+- Super()
+- __init__
